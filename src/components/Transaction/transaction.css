@@ -1,7 +1,11 @@
-.transaction-container {
-  background-color: white;
-  text-align: center;
-  padding: 2% 0 1% 0;
-  margin-bottom: 1%;
-  box-shadow: 5px 5px 5px 0px #d1d1d1;
+.btn__options {
+  padding: 0.8rem;
+  width: 100%;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+.btn__options:hover {
+  color: #fff;
 }
